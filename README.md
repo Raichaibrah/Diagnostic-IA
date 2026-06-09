@@ -60,8 +60,8 @@ Cet outil vise à sensibiliser les organisations aux enjeux liés :
 ## Auteur
 
 Projet développé dans le cadre d'une réflexion sur la gouvernance Data & IA Responsable par :
-Arslan Marin-Baldo
-Bora Ritossa
-Jin Xu
-Yiling Zhuang
+Arslan Marin-Baldo,
+Bora Ritossa,
+Jin Xu,
+Yiling Zhuang,
 Raïcha Ibrah Sanoussi 
