@@ -59,8 +59,9 @@ Cet outil vise à sensibiliser les organisations aux enjeux liés :
 
 ## Auteur
 
-Projet développé dans le cadre d'une réflexion sur la gouvernance Data & IA Responsable.
-
-## Licence
-
-Ce projet est distribué sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le partager.
+Projet développé dans le cadre d'une réflexion sur la gouvernance Data & IA Responsable par :
+Arslan Marin-Baldo
+Bora Ritossa
+Jin Xu
+Yiling Zhuang
+Raïcha Ibrah Sanoussi 
